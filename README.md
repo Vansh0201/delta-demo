@@ -7,3 +7,6 @@ Vansh Parekh
 
 # Student 
 Delta Student
+
+# College 
+Manipal Institute of Technology
