@@ -9,4 +9,4 @@ Vansh Parekh
 Delta Student
 
 # College 
-Manipal Institute of Technology
+Manipal Institute of Technology, Bengaluru
